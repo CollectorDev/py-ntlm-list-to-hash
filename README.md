@@ -1,6 +1,6 @@
-# Simple line by line HTLM encoder 
+# Simple line by line NTLM encoder 
 
-Simple python script which encodes all source file lines to HTLM.
+Simple python script which encodes all source file lines to NTLM.
 
 ```
 source.txt
