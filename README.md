@@ -1,5 +1,11 @@
 # Simple line by line NTLM encoder 
 
+Requires:
+```
+python 3.5+
+pip install progress
+```
+
 Simple python script which encodes all source file lines to NTLM.
 
 ```
